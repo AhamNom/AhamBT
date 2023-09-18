@@ -1,0 +1,3 @@
+struct algo {
+	bool operator();
+};
