@@ -1,4 +1,4 @@
-import node;
+export module bt;
 
 export struct algo {
 	unsigned int8_t level;
